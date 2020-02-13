@@ -1,0 +1,9 @@
+ul{
+    list-style: none;
+}
+li{
+    text-decoration: none;
+}
+.navbar-menu{
+    display: inline-flex;
+}
